@@ -56,7 +56,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f5f6', end
 
 }
 
+.medium-fade {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d8e0de+0,aebfbc+22,99afab+33,8ea6a2+50,4e5c5a+82,0e0e0e+99 */
+background: #d8e0de; /* Old browsers */
+background: -moz-linear-gradient(top,  #d8e0de 0%, #aebfbc 22%, #99afab 33%, #8ea6a2 50%, #4e5c5a 82%, #0e0e0e 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #d8e0de 0%,#aebfbc 22%,#99afab 33%,#8ea6a2 50%,#4e5c5a 82%,#0e0e0e 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #d8e0de 0%,#aebfbc 22%,#99afab 33%,#8ea6a2 50%,#4e5c5a 82%,#0e0e0e 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', endColorstr='#0e0e0e',GradientType=0 ); /* IE6-9 */
 
+}
 
 
 /*/////// MEDIA ////////*/
